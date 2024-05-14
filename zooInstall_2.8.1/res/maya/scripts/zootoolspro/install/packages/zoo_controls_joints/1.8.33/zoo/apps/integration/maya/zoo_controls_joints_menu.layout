@@ -1,0 +1,73 @@
+{
+  "sortOrder": -990,
+  "menu": [
+    {
+      "label": "Rigging",
+      "type": "menu",
+      "children": [
+        {
+          "type": "toolset",
+          "id": "controlCreator"
+        },
+        {
+          "type": "toolset",
+          "id": "editControls"
+        },
+        {
+          "type": "toolset",
+          "id": "colorOverrides"
+        },
+        {
+          "type": "toolset",
+          "id": "jointTool"
+        },
+        {
+          "type": "toolset",
+          "id": "planeOrient"
+        },
+        {
+          "type": "toolset",
+          "id": "jointsOnCurve"
+        },
+        {
+          "type": "toolset",
+          "id": "constraintToolbox"
+        },
+        {
+          "type": "toolset",
+          "id": "splineRig"
+        },
+        {
+          "type": "toolset",
+          "id": "controlsOnCurve"
+        },
+        {
+          "type": "toolset",
+          "id": "motionPathRig"
+        },
+        {
+          "type": "toolset",
+          "id": "twistextractor"
+        },
+        {
+          "type": "toolset",
+          "id": "skinningUtilities"
+        },
+        {
+          "type": "toolset",
+          "id": "replacejointweights"
+        },
+        {
+          "type": "toolset",
+          "id": "riggingMisc"
+        },
+        {
+          "type": "toolset",
+          "id": "reparentGroupToggle"
+        }
+      ]
+    }
+  ]
+}
+
+

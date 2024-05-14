@@ -1,0 +1,39 @@
+{
+  "sortOrder": -890,
+  "menu": [
+    {
+      "label": "Rigging",
+      "type": "menu",
+      "children": [
+        {
+          "id": "zoo.hive.artistui"
+        },
+        {
+          "type": "toolset",
+          "id": "jointsToHiveGuides"
+        },
+        {
+          "type": "definition",
+          "id": "hive.namingConfig"
+        },
+        {
+          "type": "toolset",
+          "id": "hiveFbxRigExport"
+        },
+        {
+          "type": "toolset",
+          "id": "hiveMayaReferenceExport"
+        },
+        {
+          "id": "hiveGuideAlignMirror",
+          "type": "toolset"
+        },
+        {
+          "type": "toolset",
+          "id": "hiveMirrorPasteAnim"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,54 @@
+{
+    "sortOrder": -2,
+    "shelves": [
+        {
+            "name": "ZooToolsPro",
+            "children": [
+                {
+                    "id": "zoo.shelf.dev",
+                    "displayLabel": false,
+                    "icon": "devMenu_shlf",
+                    "type": "button",
+                    "children": [
+                        {
+                            "type": "toolset",
+                            "id": "zooIcons"
+                        },
+                        {
+                           "id": "zoo.triggers.state",
+                            "type": "definition"
+                        },
+                        {
+                            "id": "zoo.reload",
+                            "icon": "zoo_reload",
+                            "type": "definition"
+                        },
+                        {
+                            "id": "zoo.shutdown",
+                            "icon": "zoo_shutdown",
+                            "type": "definition"
+                        },
+                        {
+                            "type": "definition",
+                            "id": "zoo.packages.installZip"
+                        },
+                        {
+                            "type": "definition",
+                            "id": "zoo.uninstaller"
+                        }
+                    ]
+                },
+                {
+                    "id": "zoo.preferencesui",
+                    "icon": "preferencesWindow_shlf",
+                    "displayLabel": false
+                },
+                {
+                    "id": "zoo.hotkeyeditorui",
+                    "icon": "hotkeysWindow_shlf",
+                    "displayLabel": false
+                }
+            ]
+        }
+    ]
+}

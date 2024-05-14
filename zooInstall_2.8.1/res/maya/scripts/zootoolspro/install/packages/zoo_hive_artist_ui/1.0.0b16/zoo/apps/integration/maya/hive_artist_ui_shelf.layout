@@ -1,0 +1,70 @@
+{
+  "sortOrder": -880,
+  "shelves": [
+    {
+      "name": "ZooToolsPro",
+      "children": [
+        {
+          "type": "separator"
+        },
+        {
+          "id": "hiveArtistUI",
+          "icon": "hiveWindow_shlf",
+          "tooltip": "Hive Autorigger: \nOpen the Hive Auto-rigger and its related tools.",
+          "displayLabel": false,
+          "type": "button",
+          "children": [
+            {
+              "id": "zoo.hive.artistui",
+              "label": "Hive Auto-Rigger (Beta)",
+              "type": "definition"
+            },
+            {
+              "id": "jointsToHiveGuides",
+              "type": "toolset"
+            },
+            {
+              "type": "definition",
+              "id": "hive.namingConfig"
+            },
+            {
+              "id": "hiveFbxRigExport",
+              "type": "toolset"
+            },
+            {
+              "id": "hiveMayaReferenceExport",
+              "type": "toolset"
+            },
+            {
+              "id": "hiveGuideAlignMirror",
+              "type": "toolset"
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "id": "hiveMirrorPasteAnim",
+              "type": "toolset"
+            }
+          ]
+        },
+        {
+          "id": "zoo.shelf.animation",
+          "displayLabel": false,
+          "icon": "animationMenu_shlf",
+          "type": "button",
+          "children": [
+            {
+              "type": "separator"
+            },
+            {
+              "id": "hiveMirrorPasteAnim",
+              "type": "toolset"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
