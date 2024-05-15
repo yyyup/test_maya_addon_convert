@@ -1,0 +1,2 @@
+- added Mac OS support
+- updated "driver" tooltip gif 

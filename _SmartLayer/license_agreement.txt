@@ -1,0 +1,27 @@
+﻿Copyright Notice
+Copyright © 2024 Viachaslau Baravik. All rights reserved.
+This software, "Smart Layer" ("Software"), and its content, including but not limited to code, documentation, design, and related materials, are the exclusive intellectual property of Viachaslau Baravik.
+Unauthorized reproduction, modification, distribution, or dissemination of the Software, in whole or in part, is strictly prohibited without prior written consent from Viachaslau Baravik.
+By using this Software, you, the Licensee, acknowledge and agree that the Software contains confidential and proprietary information protected under intellectual property and other laws.
+You agree to maintain the confidentiality of the Software and prevent any unauthorized use or copying of the material. Any breach of these terms may result in legal action.
+
+License Grant
+This license grants the named individual ("Licensee") a non-exclusive, non-transferable right to use the Software for personal and professional purposes.
+The Licensee is authorized to install and use the Software on multiple devices owned or operated by the Licensee, provided that the Licensee remains the sole user of the Software on all such devices.
+Sublicensing, redistributing, or transferring the Software to third parties without prior written consent from Viachaslau Baravik is forbidden.
+
+License Validation
+The Software requires occasional internet access to connect to the Gumroad server for license validation.
+By using this Software, you consent to this validation process, which may occur at varying frequencies as determined by the Software’s mechanisms.
+Failure to comply with validation requests may result in reduced functionality of the Software.
+This process is designed solely to enforce compliance with this Agreement and does not involve the transmission of any personal or sensitive information beyond what is necessary for license validation.
+
+Termination for Unauthorized Distribution
+If the Licensee engages in unauthorized distribution of the Software, or fails to comply with any of the terms and conditions set forth herein - the license granted under this Agreement will be terminated.
+In the event of such termination, the Licensee must immediately cease all use of the Software and destroy all copies of the Software in their possession or control. 
+
+Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+Limitation of Liability
+IN NO EVENT SHALL VIACHASLAU BARAVIK, THE AUTHOR, OR COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY DAMAGES WHATSOEVER, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
